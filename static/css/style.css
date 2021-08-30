@@ -1463,6 +1463,21 @@ blockquote p {
 	float: left;
 	padding:  20px  ;
 }
+
+.story-wrap {
+	height:350px;
+}
+
+
+.contact-wrap{
+	height:400px;
+
+}
+
+
+
+
+
 .post-item_media a {
 	display: block;
 }
